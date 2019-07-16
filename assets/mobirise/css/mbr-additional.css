@@ -1816,3 +1816,37 @@ body {
     padding: 1rem !important;
   }
 }
+.cid-rwnS28RDpR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rwnS28RDpR .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rwnS28RDpR .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rwnS28RDpR .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rwnS28RDpR .mbr-text {
+    text-align: center;
+  }
+}
+#instagram-feed-block-g .inst__title {
+  color: #ffffff;
+}
+.cid-rwnYgSqGFx {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
